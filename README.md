@@ -1,6 +1,6 @@
 # Read SD Card Width Arduino
 
-Este programa analiza una matriz de datos almacenada en un archivo de txt, por ejemplo:
+Este programa analiza una matriz de datos almacenada en un archivo de txt, leeida mediante el modulo para leer tarjetas micro sd para arduino, por ejemplo:
 
 1,1,1,0,0,0,0,0,0,0
 
@@ -14,4 +14,4 @@ Este programa analiza una matriz de datos almacenada en un archivo de txt, por e
 
 6,4,0,1,0,0,0,0,0,2
 
-lee cada fila y lo almacena en la memoria EEPROM
+lee cada fila y lo almacena en la memoria EEPROM mediante las funciones put
